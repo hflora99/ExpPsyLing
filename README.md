@@ -13,3 +13,5 @@ Here is a list
 - item 1
 - item 2
 - item 3
+
+Things are going so smoothly in this class so far.
